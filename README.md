@@ -28,7 +28,7 @@ Confusion matrix (left); Centroids pathways while updating (right). {\color{red}
 
 * Gradient Descending Algorithm and it's performance while discovering iris pedal width and length
 <div align="left">
-	<img src="./image/GD_iris_results.gif" width="400" alt="1" title="GD iris results">
+	<img src="./image/GD_iris_results.gif" width="300" alt="1" title="GD iris results">
 </div>
 
 Learning rate: $0.0001$ and $eps=0.01$
