@@ -7,12 +7,12 @@
 Algorithms list:
 
 1. k-means;
-2. Gradient Descending Algorithm (comming soon...)
+2. Gradient Descending Algorithm 
 ## Introduction
 
 ## Method
 1. k means algorithm;
-
+2. Gradient Descending Algorithm 
 
 
 
@@ -26,6 +26,12 @@ Algorithms list:
 
 Confusion matrix (left); Centroids pathways while updating (right). {\color{red} $\star$} refers initial points of k means; 'x' refers wrong prediction.
 
+* Gradient Descending Algorithm and it's performance while discovering iris pedal width and length
+<div align="left">
+	<img src="./image/GD_iris_results.gif" width="400" alt="1" title="GD iris results">
+</div>
+
+Learning rate: $0.0001$ and $eps=0.01$
 
 ## Reproducibility
 
