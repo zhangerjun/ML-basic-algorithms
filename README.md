@@ -8,12 +8,13 @@ Algorithms list:
 
 1. k-means;
 2. Gradient Descending Algorithm 
+3. Multi-core computation
 ## Introduction
 
 ## Method
 1. k means algorithm;
 2. Gradient Descending Algorithm 
-
+3. Multi-core computation
 
 
 
