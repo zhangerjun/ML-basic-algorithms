@@ -35,6 +35,9 @@ Confusion matrix (left); Centroids pathways while updating (right). {\color{red}
 
 Left: $lr = 0.0001$ and $eps=0.01$; right: $lr = 0.0005$ and $eps=0.01$.
 
+* Multi-core processing
+
+Once core: 42.7s; 7 cpu, 7.2s.
 ## Reproducibility
 
 ### Dependencies
@@ -48,8 +51,10 @@ I test these codes on linux systerm (Ubuntu 22.04). I tried to make these codes 
 ## Conclusion
 
 Deliverables:
-* **k means algorithm**: k-means algorithm is an perfect example to excersice EM, so I wrote k means from scatch;
-
+* **k means algorithm**: k-means algorithm can help research to discover their data at the beginning, so I wrote k means from scatch;
+* **Gradient Descent algorithm**: gradient descent method is widely used in aspect of machine learning, it is necessary to build it from scratch at the beginning;
+* **EM algorithm**: EM algorithm is useful for hidden unknowns optimization, k-means algorithm is an perfect example to excersice EM;
+* **Multi core processing**: deal with big data, expecially long dataset, multi core processing can save a lot of time.
 
 *Acknowledgement*
 
