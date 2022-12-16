@@ -36,8 +36,10 @@ Confusion matrix (left); Centroids pathways while updating (right). {\color{red}
 Left: $lr = 0.0001$ and $eps=0.01$; right: $lr = 0.0005$ and $eps=0.01$.
 
 * Multi-core processing
+<div align="left">
+	<img src="./image/multi_core_test.png" width="400" alt="1" title="multi cpu test">
+</div>
 
-Once core: 42.7s; 7 cpu, 7.2s.
 ## Reproducibility
 
 ### Dependencies
