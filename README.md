@@ -4,13 +4,15 @@
 
 
 ## Summary
-Algorithms list:
 
-1. k-means;
-2. Gradient Descending Algorithm 
-3. Multi-core computation
+
+
 ## Introduction
+*Motivation*
 
+1. k-means: I have some data, I want to explore them and try to look for some potential models behind it.
+2. Gradient Descending Algorithm: With complex loss function, can I find some solutions quickly?
+3. Multi-core computation: With large dataset, machine learning takes long time to run. If I could take advantage of my multi-core computer, that will save a lot of time.
 ## Method
 1. k means algorithm;
 2. Gradient Descending Algorithm 
@@ -37,7 +39,7 @@ Left: $lr = 0.0001$ and $eps=0.01$; right: $lr = 0.0005$ and $eps=0.01$.
 
 * Multi-core processing
 <div align="left">
-	<img src="./image/multi_core_test.png" width="400" alt="1" title="multi cpu test">
+	<img src="./image/multi_core_test.gif" width="400" alt="1" title="multi cpu test">
 </div>
 
 ## Reproducibility
