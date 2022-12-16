@@ -1,18 +1,13 @@
 # Mini-Project 11: Machine Learning Basic Algorithms From Scratch
 
 
-
-
-## Summary
-
-
-
 ## Introduction
 *Motivation*
 
 1. k-means: I have some data, I want to explore them and try to look for some potential models behind it.
 2. Gradient Descending Algorithm: With complex loss function, can I find some solutions quickly?
 3. Multi-core computation: With large dataset, machine learning takes long time to run. If I could take advantage of my multi-core computer, that will save a lot of time.
+
 ## Method
 1. k means algorithm;
 2. Gradient Descending Algorithm 
@@ -62,4 +57,4 @@ Deliverables:
 
 *Acknowledgement*
 
-This mini project started from Dec. 2022, and will be update once a week until project completed. Now, it is still onging. If you have any questions or want to share your ideas, do not hesitate to contact me by email. If you find problems in the code, welcome to send a pull request. Thanks.
+This mini project started from Dec. 2022, and will be update once a week until project completed. Now, it is still onging. If you have any questions or want to share your ideas, do not hesitate to contact me by email. If you find problems in the code, welcome to send a pull request. If you find these codes and figures are helpful and useful, please send me a star at the right top corner. Thanks.
