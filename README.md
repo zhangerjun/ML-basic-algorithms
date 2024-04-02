@@ -1,4 +1,4 @@
-# Mini-Project 11: Machine Learning Basic Algorithms From Scratch
+# Machine Learning Basic Algorithms From Scratch
 
 
 ## Introduction
@@ -57,4 +57,4 @@ Deliverables:
 
 *Acknowledgement*
 
-This mini project started from Dec. 2022, and will be update once a week until project completed. Now, it is still onging. If you have any questions or want to share your ideas, do not hesitate to contact me by email. If you find problems in the code, welcome to send a pull request. If you find these codes and figures are helpful and useful, please send me a star at the right top corner. Thanks.
+This mini project started from Dec. 2022, and it is still onging currently. If you have any questions or want to share your ideas, do not hesitate to contact me by email. If you find problems in the code, welcome to send a pull request.Thanks.
